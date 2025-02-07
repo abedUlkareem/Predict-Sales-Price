@@ -13,8 +13,8 @@ This project focuses on analyzing and processing real estate sales data, and bui
   
   Statistical Analysis:
 
-  * ### Applying ANOVA Test to analyze differences between categories.
-  * ### Using Tukey Test to identify categories with statistically significant differences.
+  * ##### Applying ANOVA Test to analyze differences between categories.
+  * ##### Using Tukey Test to identify categories with statistically significant differences.
   
   Building Predictive Models:
 
