@@ -7,24 +7,24 @@ This project focuses on analyzing and processing real estate sales data, and bui
 
   Data Exploration:
 
-* Analyzing and handling missing values.
-* Removing duplicate values.
-* Visualizing data distribution using histograms.
+  * Analyzing and handling missing values.
+  * Removing duplicate values.
+  * Visualizing data distribution using histograms.
   
   Statistical Analysis:
 
-* Applying ANOVA Test to analyze differences between categories.
-* Using Tukey Test to identify categories with statistically significant differences.
+  * Applying ANOVA Test to analyze differences between categories.
+  * Using Tukey Test to identify categories with statistically significant differences.
   
   Building Predictive Models:
 
-* Linear Regression Model to understand the relationship between features and property price.
-* Decision Tree Model to capture non-linear patterns in the data.
+  * Linear Regression Model to understand the relationship between features and property price.
+  * Decision Tree Model to capture non-linear patterns in the data.
 
   Model Evaluation:
 
-* Comparing model performance using R² and RMSE.
-* Analyzing results to identify the most accurate model for predictions.
+  * Comparing model performance using R² and RMSE.
+  * Analyzing results to identify the most accurate model for predictions.
 
 
 
